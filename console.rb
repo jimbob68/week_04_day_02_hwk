@@ -21,7 +21,7 @@ film2 = Film.new({
 film2.save()
 
 film3 = Film.new({
-  'title' => 'Star Wars the rise of   Skywalker',
+  'title' => 'Star Wars the rise of Skywalker',
   'price' => '7.50'
 })
 film3.save()
